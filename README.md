@@ -93,7 +93,7 @@ Le travail demandé est organisé en plusieurs parties progressives :
 
 Votre dépôt final doit contenir :
 
-controle01-numpy-matplotlib-iris/
+controle01-numpy-matplotlib-iris/ <br>
 │
 ├── README.md
 ├── notebooks/
