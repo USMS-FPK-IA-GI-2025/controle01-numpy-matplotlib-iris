@@ -46,12 +46,12 @@ Toutes les colonnes sont numériques sauf `variety`, qui est catégorielle.
 
 ## 4. Règles et contraintes techniques
 
-⚠️ **Règles strictes à respecter** :
+**Règles strictes à respecter** :
 
 - Bibliothèques autorisées :
   - `numpy`
   - `matplotlib`
-- ❌ Toute autre bibliothèque est interdite :
+- Toute autre bibliothèque est interdite :
   - pandas, seaborn, sklearn, scipy, etc.
 - Le travail doit être réalisé dans un **Jupyter Notebook**
 - Le code doit être :
@@ -85,7 +85,7 @@ Le travail demandé est organisé en plusieurs parties progressives :
 - **Partie E** : Visualisations avancées (subplots, comparaisons)
 - **Partie F** : Mini-analyse finale combinant NumPy et Matplotlib
 
-👉 Les questions détaillées sont à traiter **directement dans le notebook** fourni.
+**NB :** Les questions détaillées sont à traiter **directement dans le notebook** fourni.
 
 ---
 
@@ -105,7 +105,7 @@ controle01-numpy-matplotlib-iris/
 └── figures/ (optionnel)
 
 
-📌 Le notebook doit être **exécutable du début à la fin sans erreur**.
+Le notebook doit être **exécutable du début à la fin sans erreur**.
 
 ---
 
@@ -123,8 +123,8 @@ L’évaluation portera sur :
 
 ## 9. Date de remise
 
-🗓️ **Délai de remise : 1 semaine après la date de distribution du sujet**  
-⏰ Toute remise en retard sera pénalisée selon le règlement pédagogique.
+**Délai de remise : 1 semaine après la date de distribution du sujet**  
+Toute remise en retard sera pénalisée selon le règlement pédagogique.
 
 ---
 
