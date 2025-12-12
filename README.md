@@ -94,15 +94,15 @@ Le travail demandé est organisé en plusieurs parties progressives :
 Votre dépôt final doit contenir :
 
 controle01-numpy-matplotlib-iris/ <br>
-│
-├── README.md
-├── notebooks/
-│ └── controle_numpy_matplotlib_iris.ipynb
-│
-├── data/
-│ └── iris.csv
-│
-└── figures/ (optionnel)
+│ <br>
+├── README.md <br>
+├── notebooks/ <br>
+│ └── controle_numpy_matplotlib_iris.ipynb <br>
+│ <br>
+├── data/ <br>
+│ └── iris.csv <br>
+│ <br>
+└── figures/ (optionnel) <br>
 
 
 Le notebook doit être **exécutable du début à la fin sans erreur**.
